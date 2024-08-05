@@ -1,4 +1,5 @@
-import pygame as pg, sys
+import pygame as pg
+import sys
 from random import randint
 pg.font.init()
 
